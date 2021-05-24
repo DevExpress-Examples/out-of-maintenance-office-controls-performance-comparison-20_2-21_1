@@ -1,6 +1,6 @@
 # RichEdit and Spredsheet Controls Performance Comparison (v20.2 vs v21.1)
 
-You can use this repository to compare performance of RichEdit and Spreadsheet controls (v20.2 vs v21.1). Run the RibbonPerformanceComparison project and select a control to run benchmark. Note that we have used the **release** build configuration to measure controls' performance. 
+You can use this repository to compare performance of RichEdit and Spreadsheet controls (v20.2 vs v21.1). Run the RibbonPerformanceComparison project and select a control to run the benchmark. Note that we have used the **release** build configuration to measure controls' performance. 
 
 After you have done benchmarks, refer to the following text files to get the results: 
 
