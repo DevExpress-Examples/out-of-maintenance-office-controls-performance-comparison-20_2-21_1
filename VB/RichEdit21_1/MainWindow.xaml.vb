@@ -46,7 +46,7 @@ Namespace RichEdit21_1
 			Return sw.ElapsedMilliseconds
 		End Function
 		Private Sub SetupWindow(ByVal window As Window, ByVal loadDocument As Boolean)
-			Dim richEditControl() As New RichEditControl() With {.CommandBarStyle = CommandBarStyle.Ribbon}
+			Dim richEditControl As New RichEditControl() With {.CommandBarStyle = CommandBarStyle.Ribbon}
 			If loadDocument Then
 				richEditControl.DocumentSource = AssemblyHelper.GetResourceStream(System.Reflection.Assembly.GetExecutingAssembly(), "Data/Demo.docx", True)
 			End If
