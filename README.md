@@ -17,4 +17,4 @@ After you have done benchmarks, refer to the following text files to get the res
 
 In a result file, the first column is the cold startup time, and the second one is the hot startup time. 
 
-Refer to the following documentation topic for more information on the Ribbon performance: [Performance Enhancements](https://docs.devexpress.com/WPF/403033/controls-and-libraries/ribbon-bars-and-menu/ribbon/performance-enhancements?v=21.1)
+Refer to the following documentation topic for more information on the Ribbon performance: [Performance Enhancements](https://docs.devexpress.com/WPF/403033/controls-and-libraries/ribbon-bars-and-menu/ribbon/performance-enhancements?v=21.1).
