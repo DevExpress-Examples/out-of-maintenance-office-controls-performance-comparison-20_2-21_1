@@ -6,14 +6,14 @@ After you have done benchmarks, refer to the following text files to get the res
 
 | Control| Version | With\Without Document | File Path |
 |-|-|-|-|
-|RichEdit|20.2|With Document|/CS/bin/RichEdit20_2_WithoutDocument.txt|
-|RichEdit|20.2|Without Document|/CS/bin/RichEdit20_2_WithDocument.txt|
-|RichEdit|21.1|With Document|/CS/bin/RichEdit21_1_WithoutDocument.txt|
-|RichEdit|21.1|Without Document|/CS/bin/RichEdit21_1_WithDocument.txt|
-|Spreadsheet|20.2|With Document|/CS/bin/Spreadsheet20_2_WithoutDocument.txt|
-|Spreadsheet|20.2|Without Document|/CS/bin/Spreadsheet20_2_WithDocument.txt|
-|Spreadsheet|21.1|With Document|/CS/bin/Spreadsheet21_1_WithoutDocument.txt|
-|Spreadsheet|21.1|Without Document|/CS/bin/Spreadsheet21_1_WithDocument.txt|
+|RichEdit|20.2|Without Document|/CS/bin/RichEdit20_2_WithoutDocument.txt|
+|RichEdit|20.2|With Document|/CS/bin/RichEdit20_2_WithDocument.txt|
+|RichEdit|21.1|Without Document|/CS/bin/RichEdit21_1_WithoutDocument.txt|
+|RichEdit|21.1|With Document|/CS/bin/RichEdit21_1_WithDocument.txt|
+|Spreadsheet|20.2|Without Document|/CS/bin/Spreadsheet20_2_WithoutDocument.txt|
+|Spreadsheet|20.2|With Document|/CS/bin/Spreadsheet20_2_WithDocument.txt|
+|Spreadsheet|21.1|Without Document|/CS/bin/Spreadsheet21_1_WithoutDocument.txt|
+|Spreadsheet|21.1|With Document|/CS/bin/Spreadsheet21_1_WithDocument.txt|
 
 In a result file, the first column is the cold startup time, and the second one is the hot startup time. 
 
