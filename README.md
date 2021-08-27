@@ -1,3 +1,8 @@
+<!-- default badges list -->
+![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/370322289/21.1.2%2B)
+[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T1000643)
+[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
+<!-- default badges end -->
 # RichEdit and Spredsheet Controls Performance Comparison (v20.2 vs v21.1)
 
 You can use this repository to compare performance of RichEdit and Spreadsheet controls (v20.2 vs v21.1). Run the RibbonPerformanceComparison project and select a control to run the benchmark. Note that we have used the **release** build configuration to measure controls' performance. 
